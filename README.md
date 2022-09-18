@@ -3,7 +3,9 @@
 # images 
 
 
- ![](https://github.com/abdullahalamodi/coures_example/blob/main/assets/1.png?raw=true)
- ![](https://github.com/abdullahalamodi/coures_example/blob/main/assets/2.png?raw=true)
- ![](https://github.com/abdullahalamodi/coures_example/blob/main/assets/3.png?raw=true)
- ![](https://github.com/abdullahalamodi/coures_example/blob/main/assets/4.png?raw=true)
+
+ 
+ <img src="https://github.com/abdullahalamodi/coures_example/blob/main/assets/1.png" width="256"/>
+ <img src="https://github.com/abdullahalamodi/coures_example/blob/main/assets/2.png" width="256"/>
+ <img src="https://github.com/abdullahalamodi/coures_example/blob/main/assets/3.png" width="256"/>
+ <img src="https://github.com/abdullahalamodi/coures_example/blob/main/assets/4.png" width="256"/>
