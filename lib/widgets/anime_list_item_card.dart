@@ -19,7 +19,8 @@ class AnimeListItemCard extends StatelessWidget {
           boxShadow: const [
             BoxShadow(
               blurRadius: 5,
-              color: Colors.grey,
+              color: Colors.black12,
+              offset: Offset(0, 2),
             )
           ]),
       child: Row(
